@@ -1,4 +1,8 @@
 
+# DEPRECATED
+
+THIS REPO IS NOW DEPRECATED. SEE THE NON-SRC VERSION
+
 # Reporting problems
 
 Please consider [opening an issue](https://github.com/Interlock-Rochester/interlock-rochester.github.io.src/issues)
