@@ -1,3 +1,9 @@
+# DEPRECTATION WARNING
+
+This repo was the previous home to the Interlock Rochester website. It will soon be removed. Please see latest repo at
+
+**[Interlock-Rochester.github.io](https://github.com/Interlock-Rochester/interlock-rochester.github.io)**
+
 
 # Reporting problems
 
